@@ -33,7 +33,6 @@
 ###
 
 <h3 align="left">Contact  :</h3>
-<a href="tail:9142003626">+91 9142003626</a>
 ###
 
 <div align="center">
@@ -68,13 +67,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevendraKumar-JAJ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Languages%20I've%20Learned" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=DevendraKumar-JAJ&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=2&date_format=j%20M%5B%20Y%5D&order=3" height="17" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=DevendraKumar-JAJ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevendraKumar-JAJ&radius=16&theme=dracula&area=true&order=5&custom_title=Stats&color=#000&bg_color=#000000&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
