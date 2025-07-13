@@ -78,36 +78,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="33" alt="typescript logo"  />
-  <img width="57" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" alt="react logo"  />
-  <img width="57" />
-  <img src="https://skillicons.dev/icons?i=express" height="33" alt="express logo"  />
-  <img width="57" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="33" alt="nodejs logo"  />
-  <img width="57" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="33" alt="jquery logo"  />
-  <img width="57" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="33" alt="photoshop logo"  />
-  <img width="57" />
-  <img src="https://skillicons.dev/icons?i=ps" height="33" alt="adobephotoshop logo"  />
-  <img width="57" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="33" alt="tailwindcss logo"  />
-  <img width="57" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="33" alt="bootstrap logo"  />
-  <img width="57" />
-  <img src="https://skillicons.dev/icons?i=java" height="33" alt="java logo"  />
-  <img width="57" />
-  <img src="https://skillicons.dev/icons?i=git" height="33" alt="git logo"  />
-  <img width="57" />
-  <img src="https://skillicons.dev/icons?i=github" height="33" alt="github logo"  />
-</div>
-
-###
-
-###
-
 ###
 
 <h6 align="left">😄 Pronouns: He/Him</h6>
