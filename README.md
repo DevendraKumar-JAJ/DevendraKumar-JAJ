@@ -33,9 +33,7 @@
 ###
 
 <h3 align="left">Contact  :</h3>
-* Phone: 9142003626
-* Email: [dkumar06545@gmail.com](mailto:dkumar06545@gmail.com)
-
+<a href="tail:9142003626">+91 9142003626</a>
 ###
 
 <div align="center">
@@ -107,12 +105,6 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevendraKumar-JAJ/DevendraKumar-JAJ/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevendraKumar-JAJ/DevendraKumar-JAJ/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevendraKumar-JAJ/DevendraKumar-JAJ/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
