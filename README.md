@@ -33,7 +33,6 @@
 ###
 
 <h3 align="left">Contact  :</h3>
-<a href="dkumar06545@gmail.com">
 * Phone: 9142003626
 * Email: [dkumar06545@gmail.com](mailto:dkumar06545@gmail.com)
 
