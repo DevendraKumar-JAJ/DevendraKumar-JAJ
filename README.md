@@ -32,7 +32,6 @@
 
 ###
 
-<h3 align="left">Contact  :</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
